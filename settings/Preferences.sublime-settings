@@ -37,7 +37,7 @@
     [
         "no_round"
     ],
-    "font_size": 20,
+    "font_size": 10,
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "ignored_packages":
@@ -79,7 +79,7 @@
     "preview_on_click": false,
     "scroll_past_end": true,
     "scroll_speed": 5.0,
-    "show_definitions": false,
+    "show_definitions": true,
     "show_encoding": true,
     "show_errors_inline": false,
     "show_full_path": false,
